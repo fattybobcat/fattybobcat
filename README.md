@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Учебные проекты |
+ Study Project
 |-------|-------|
-Markdown | Less | Pretty
---- | --- | ---
+Name | description 
+--- | --- 
