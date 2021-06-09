@@ -1,5 +1,7 @@
 ### Hi there 👋
+I continue to study the features of Python (Lutz, Python to the heights of mastery, Luciano Ramal), algorithms (Grokay's book Algorithms, articles on Habré), deploying applications on servers, network structure and solving problems.
 
+I am persistent in solving difficult and interesting problems and I am happy when I have achieved results. I love when everything is done on time. I am interested in the success of the business, although it is sometimes a series of routine tasks in order for the project to be completed successfully.
 <!--
 **fattybobcat/fattybobcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
