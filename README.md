@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 Name | Description 
 --- | --- 
 [git_profile_search](https://github.com/fattybobcat/git_profile_search)| The project allows you to search for a Pull-Request for a specific users. When searching, if user exists, the Pull-Request information for the given user will be provided. 
+[api_yamdb](https://github.com/fattybobcat/api_yamdb)| Test project of Yandex.Praktikum
+The YaMDb project collects user reviews (Title). The works are divided into categories: "Books", "Films", "Music". The list of categories (Category) can be expanded by the administrator.
