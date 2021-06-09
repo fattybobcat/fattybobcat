@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  Study Project
-|-------|-------|
-Name | description 
+-------|-------
+Name | Description 
 --- | --- 
+[git_profile_search](https://github.com/fattybobcat/git_profile_search)| The project allows you to search for a Pull-Request for a specific users. When searching, if user exists, the Pull-Request information for the given user will be provided. 
